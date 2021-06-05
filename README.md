@@ -1,2 +1,2 @@
 # GRIPJune2021
-Projects related to data science for sparks internship
+Projects related to data science for The Sparks Foundation internship
